@@ -12,3 +12,6 @@ def findUnpoliticisedIssueFromCountry(country: Country) -> list: # type: ignore
 issues = findUnpoliticisedIssueFromCountry(countries.Ghana)
 
 print(", ".join(issues))
+
+
+by Robert Amoah (https://www.robertamoah.com)

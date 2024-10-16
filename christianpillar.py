@@ -28,4 +28,4 @@ print(
 )
 
 
-by https://www.robertamoah.com    
+by Robert Amoah (https://www.robertamoah.com)
